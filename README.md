@@ -1,2 +1,2 @@
-# nai-backpropagation
-Backpropagation algorithm C++ implementation
+# backpropagation
+Backpropagation algorithm implemented in C++
